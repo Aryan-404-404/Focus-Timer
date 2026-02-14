@@ -24,11 +24,3 @@ It helps track focused work sessions and stores session history locally.
 - Tailwind CSS  
 
 ---
-
-## 📦 Installation
-
-```bash
-git clone <your-repo-link>
-cd focus-timer
-npm install
-npm run dev
